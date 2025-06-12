@@ -1,6 +1,7 @@
 # 유독, 나에게 딱맞는 AI 챗봇 : Archi
 
-- 화면 설계 문서 : https://v0-archi-eight.vercel.app/
+- 화면 설계 문서 : https://docs.google.com/presentation/d/1MF9kqc2uC8ufsfCQxmTVAksOE3487MZQOAWbavg3DxQ/edit?usp=sharing
+- 화면 UI 설계 초안 : https://v0-archi-eight.vercel.app/
 - 기획 문서 : https://docs.google.com/spreadsheets/d/1oR081MsewI_3JfcgwxjMXWXAnLtFYInT10Dtbs9m_Rc/edit?usp=sharing
 
 - 프로젝트 전체 구조 확인 : [Archi-Infra](https://github.com/eureka-project-4/archi-infra)
