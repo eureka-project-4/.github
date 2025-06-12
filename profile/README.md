@@ -3,7 +3,7 @@
 - 화면 설계 문서 : https://v0-archi-eight.vercel.app/
 - 기획 문서 : https://docs.google.com/spreadsheets/d/1oR081MsewI_3JfcgwxjMXWXAnLtFYInT10Dtbs9m_Rc/edit?usp=sharing
 
-- 프로젝트 전체 구조 확인 : Archi-Infra
+- 프로젝트 전체 구조 확인 : [Archi-Infra](https://github.com/eureka-project-4/archi-infra)
 
 ## 프로젝트 목표
 - (서비스 개요)LG유플러스의 구독 서비스 ‘유독’에 AI 챗봇 ‘ArchI’를 통합하여, 사용자의 실시간 대화와 패턴을 분석해 맞춤형 통신 요금제 조합을 제안하는 서비스를 제공한다. 
