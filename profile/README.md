@@ -6,6 +6,9 @@
 - (사용자 경험)사용자는 복잡한 요금제 비교없이도 챗봇과의 자연스러운 대화만으로 자신에게 최적화된 통신 서비스 조합을 발견하고, 언제든 변화하는 라이프스타일에 맞춰 유연하게 조합을 변경할 수 있는 경험을 제공받는다.
   
 ---
+## Intro
+
+## Documents
 
 - 화면 설계 문서 : https://docs.google.com/presentation/d/1MF9kqc2uC8ufsfCQxmTVAksOE3487MZQOAWbavg3DxQ/edit?usp=sharing
 - 화면 UI 설계 초안 : https://v0-archi-eight.vercel.app/
@@ -13,16 +16,22 @@
 
 - 프로젝트 전체 구조 확인 : [Archi-Infra](https://github.com/eureka-project-4/archi-infra)
 
-  ### 시스템 아키텍처
+## ER Diagram
+
+## Stack
+
+## SW Architecture
 
   <img width="804" alt="image" src="https://github.com/user-attachments/assets/7e340b41-3527-4c95-90a1-a9a6f44a1e5e" />
 
+## Member & Role
+
+## Detailed Features ( 각 주요기능 나열 및 상세 설명 )
 
 ## 해결하고자 하는 문제
 - (선택의 복잡성)구독 선택지가 많아 선택에 오랜 시간이 소요되는 문제
 - (정보 접근성) 새로운 구독 혜택 출시 시 기존 구독자의 정보 접근성 부족
 - (기술적 한계) 기존 챗봇(AI홀맨)의 룰-베이스 단순 상담의 한계
-
 
 ## 기대효과
 - (운영 효율성) 기존 챗봇 대비 유연한 대화 흐름으로 사용자 신뢰도 향상 및 상담사 업무 지원 솔루션으로 확장 가능
