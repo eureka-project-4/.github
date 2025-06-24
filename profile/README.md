@@ -29,7 +29,13 @@
 
 ## Member & Role
 
-## Detailed Features ( 각 주요기능 나열 및 상세 설명 )
+## Detailed Features
+
+- Archi-Infra : https://github.com/eureka-project-4/archi-infra
+- Archi-Service : https://github.com/eureka-project-4/Archi-Service
+- Archi-Ai : https://github.com/eureka-project-4/Archi-AI
+- Archi-Admin : https://github.com/eureka-project-4/Archi-Admin
+- Archi-Front : https://github.com/eureka-project-4/archi-front
 
 ## 해결하고자 하는 문제
 - (선택의 복잡성)구독 선택지가 많아 선택에 오랜 시간이 소요되는 문제
