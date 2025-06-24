@@ -39,8 +39,6 @@
 | **Archi-Admin** | [https://github.com/eureka-project-4/Archi-Admin](https://github.com/eureka-project-4/Archi-Admin) |
 | **Archi-Front** | [https://github.com/eureka-project-4/archi-front](https://github.com/eureka-project-4/archi-front) |
 
----
-
 > 각 레포지토리는 Archi 프로젝트의 모듈별 기능을 담당하며, 협업 및 버전 관리를 위해 분리되어 관리됩니다.
 
 
