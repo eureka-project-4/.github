@@ -31,11 +31,18 @@
 
 ## Detailed Features
 
-- Archi-Infra : https://github.com/eureka-project-4/archi-infra
-- Archi-Service : https://github.com/eureka-project-4/Archi-Service
-- Archi-Ai : https://github.com/eureka-project-4/Archi-AI
-- Archi-Admin : https://github.com/eureka-project-4/Archi-Admin
-- Archi-Front : https://github.com/eureka-project-4/archi-front
+| 프로젝트 | GitHub 링크 |
+| -------- | ------------ |
+| **Archi-Infra** | [https://github.com/eureka-project-4/archi-infra](https://github.com/eureka-project-4/archi-infra) |
+| **Archi-Service** | [https://github.com/eureka-project-4/Archi-Service](https://github.com/eureka-project-4/Archi-Service) |
+| **Archi-AI** | [https://github.com/eureka-project-4/Archi-AI](https://github.com/eureka-project-4/Archi-AI) |
+| **Archi-Admin** | [https://github.com/eureka-project-4/Archi-Admin](https://github.com/eureka-project-4/Archi-Admin) |
+| **Archi-Front** | [https://github.com/eureka-project-4/archi-front](https://github.com/eureka-project-4/archi-front) |
+
+---
+
+> 각 레포지토리는 Archi 프로젝트의 모듈별 기능을 담당하며, 협업 및 버전 관리를 위해 분리되어 관리됩니다.
+
 
 ## 해결하고자 하는 문제
 - (선택의 복잡성)구독 선택지가 많아 선택에 오랜 시간이 소요되는 문제
