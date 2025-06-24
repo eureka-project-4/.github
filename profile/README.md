@@ -15,8 +15,7 @@
 
   ### 시스템 아키텍처
 
-  <img width="804" alt="image" src="https://github.com/user-attachments/assets/62b0fc40-30c1-4968-aac4-316d6ff92ad6" />
-
+  <img width="804" alt="image" src="https://github.com/user-attachments/assets/7e340b41-3527-4c95-90a1-a9a6f44a1e5e" />
 
 
 ## 해결하고자 하는 문제
