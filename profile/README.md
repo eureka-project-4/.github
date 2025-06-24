@@ -18,6 +18,9 @@
 
 ## ER Diagram
 
+  <img width="1288" alt="스크린샷 2025-06-24 오전 10 00 01" src="https://github.com/user-attachments/assets/d8349bc3-f8af-4621-a748-b1d5afeb0e64" />
+
+
 ## Stack
 
 ## SW Architecture
